@@ -2,8 +2,13 @@
 
 - [Standarni prikaz](html/index.html)
 - [Prikaz na logaritamskoj skali](html/index_log.html)
+- [Prikaz na karti](html/index_map.html)
 
---------
+-----
 
-* [Kod](https://github.com/ppalasek/covid_plots_croatia)
+![](img/map.png)
+
+-----
+
+- [Kod](https://github.com/ppalasek/covid_plots_croatia)
 
