@@ -2,7 +2,7 @@
 
 ##### (generirano 22.06.2021. 11:39:42 h)
 
-- [Standarni prikaz](html/index.html)
+- [Standardni prikaz](html/index.html)
 - [Prikaz na logaritamskoj skali](html/index_log.html)
 - [Prikaz na karti](html/index_map.html)
 
