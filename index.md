@@ -5,6 +5,7 @@
 - [Standardni prikaz](html/index.html)
 - [Prikaz na logaritamskoj skali](html/index_log.html)
 - [Prikaz na karti](html/index_map.html)
+- [Prikaz po dobnim skupinama](html/index_per_age.html)
 
 -----
 
@@ -13,6 +14,8 @@
 ![](img/2021_06_26_map_7_day_per_100k.png)
 
 ![](img/2021_06_26_map_14_day_per_100k.png)
+
+![](img/per_age_group.png)
 
 -----
 
