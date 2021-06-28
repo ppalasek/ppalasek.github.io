@@ -1,11 +1,10 @@
 ### COVID 19 u Hrvatskoj: Pregled broja zaraženih po županijama
 
-##### (generirano 28.06.2021. 11:50:21 h)
+##### (generirano 28.06.2021. 16:30:26 h)
 
 - [Standardni prikaz](html/index.html)
 - [Prikaz na logaritamskoj skali](html/index_log.html)
 - [Prikaz na karti](html/index_map.html)
-
 - [Prikaz po dobnim skupinama](html/index_per_age.html)
 
 -----
