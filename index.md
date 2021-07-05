@@ -15,7 +15,7 @@
 
 ![](img/2021_07_04_map_14_day_per_100k.png)
 
-![](img/2021_07_04_per_age_group.png)
+![](img/2021_07_03_per_age_group.png)
 
 -----
 
