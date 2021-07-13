@@ -19,7 +19,7 @@ Interaktivni prikazi dostupni su na sljedećim linkovima:
 
 ![](img/2021_07_12_map_14_day_per_100k.png)
 
-![](img/2021_07_12_vaccination)
+![](img/2021_07_12_vaccination.png)
 
 ![](img/2021_07_12_per_age_group.png)
 
