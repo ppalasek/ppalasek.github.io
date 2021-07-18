@@ -1,6 +1,6 @@
 # COVID 19 u Hrvatskoj: Pregled broja zaraženih po županijama
 
-### (generirano 17.07.2021. 12:01:39 h)
+### (generirano 18.07.2021. 11:57:22 h)
 
 Interaktivni prikazi dostupni su na sljedećim linkovima:
 
@@ -15,29 +15,29 @@ Interaktivni prikazi dostupni su na sljedećim linkovima:
 
 ## Pregled tjedne promjene broja zaraženih po županijama
 
-![](img/2021_07_16_map.png)
+![](img/2021_07_17_map.png)
 
 ## Ukupan broj zaraženih u zadnjih 7 dana na 100000 stanovnika
 
-![](img/2021_07_16_map_7_day_per_100k.png)
+![](img/2021_07_17_map_7_day_per_100k.png)
 
 ## Ukupan broj zaraženih u zadnjih 14 dana na 100000 stanovnika
 
-![](img/2021_07_16_map_14_day_per_100k.png)
+![](img/2021_07_17_map_14_day_per_100k.png)
 
 ## Procijepljenost po županijama
 
 (ne osvježava se automatski)
 
-![](img/2021_07_16_vaccination.png)
+![](img/2021_07_17_vaccination.png)
 
 ## Pregled broja zaraženih po dobnim skupinama na 100000 stanovnika
 
-![](img/2021_07_16_per_age_group.png)
+![](img/2021_07_17_per_age_group.png)
 
 ## Pregled broja zaraženih po dobnim skupinama i spolu (u zadnjih 7 dostupnih dana) na 100000 stanovnika
 
-![](img/2021_07_16_pyramid.png)
+![](img/2021_07_17_pyramid.png)
 
 -----
 
