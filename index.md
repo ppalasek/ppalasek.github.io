@@ -1,6 +1,6 @@
 # COVID 19 u Hrvatskoj: Pregled broja zaraženih po županijama
 
-### (generirano 18.07.2021. 11:57:22 h)
+### (generirano 18.07.2021. 20:20:38 h)
 
 Interaktivni prikazi dostupni su na sljedećim linkovima:
 
@@ -24,6 +24,12 @@ Interaktivni prikazi dostupni su na sljedećim linkovima:
 ## Ukupan broj zaraženih u zadnjih 14 dana na 100000 stanovnika
 
 ![](img/2021_07_17_map_14_day_per_100k.png)
+
+## Ukupan broj zaraženih u zadnjih 14 dana na 100000 stanovnika po regijama
+
+(napomena: kod ECDC-a boja regije ovisi i o postotku pozitivnih testova, ovdje je prikazan samo broj slučajeva)
+
+![](img/2021_07_17_map_14_day_per_100k_region.png)
 
 ## Procijepljenost po županijama
 
