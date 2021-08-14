@@ -1,6 +1,6 @@
 # COVID 19 u Hrvatskoj: Pregled broja zaraženih po županijama
 
-### (generirano 13.08.2021. 12:13:03 h)
+### (generirano 14.08.2021. 13:36:44 h)
 
 Interaktivni prikazi dostupni su na sljedećim linkovima:
 
@@ -13,47 +13,51 @@ Interaktivni prikazi dostupni su na sljedećim linkovima:
 
 -----
 
+## Pregled broja zaraženih po županijama
+
+![](img/2021_08_13_line_plots.png)
+
 ## Pregled tjedne promjene broja zaraženih po županijama
 
-![](img/2021_08_12_map.png)
+![](img/2021_08_13_map.png)
 
 ## Ukupan broj zaraženih u zadnjih 7 dana na 100000 stanovnika
 
-![](img/2021_08_12_map_7_day_per_100k.png)
+![](img/2021_08_13_map_7_day_per_100k.png)
 
 ## Ukupan broj zaraženih u zadnjih 14 dana na 100000 stanovnika
 
-![](img/2021_08_12_map_14_day_per_100k.png)
+![](img/2021_08_13_map_14_day_per_100k.png)
 
 ## Ukupan broj zaraženih u zadnjih 14 dana na 100000 stanovnika po regijama
 
 (napomena: kod ECDC-a boja regije ovisi i o postotku pozitivnih testova, ovdje je prikazan samo broj slučajeva)
 
-![](img/2021_08_12_map_14_day_per_100k_region.png)
+![](img/2021_08_13_map_14_day_per_100k_region.png)
 
 (Trend kretanja 14-dnevnog broja slučajeva na 100k stanovnika opisan eksponencijalnom krivuljom n(t) = a * e^(b * t) po regijama. Krivulja aproksimira podatke zadnjih 7 dana, izračunate iz podataka objavljenih na koronavirus.hr, koristeći broj stanovnika po županijama iz 2019. s dzs.hr. Krivulja se prikazuje ukoliko je R^2 aproksimacije > 0.9, prikazana je narančastom bojom. Zelena krivulja prikazuje vrijednosti aproksimacijske krivulje 7 dana u budućnosti (deblja linija), dok su tanjom zelenom linijom prikazane vrijednosti krivulje do dana u kojem bi vrijednost mogla doći do praga od 75/200 zaraženih na 100k stanovnika. Generirano automatski, nakon objave službenih podataka na koronavirus.hr.)
 
-![](img/2021_08_12_current_Jadranska_Hrvatska.png)
+![](img/2021_08_13_current_Jadranska_Hrvatska.png)
 
-![](img/2021_08_12_current_Panonska_Hrvatska.png)
+![](img/2021_08_13_current_Panonska_Hrvatska.png)
 
-![](img/2021_08_12_current_Grad_Zagreb.png)
+![](img/2021_08_13_current_Grad_Zagreb.png)
 
-![](img/2021_08_12_current_Sjeverna_Hrvatska.png)
+![](img/2021_08_13_current_Sjeverna_Hrvatska.png)
 
 ## Procijepljenost po županijama
 
 (ne osvježava se automatski)
 
-![](img/2021_08_12_vaccination.png)
+![](img/2021_08_13_vaccination.png)
 
 ## Pregled broja zaraženih po dobnim skupinama na 100000 stanovnika
 
-![](img/2021_08_12_per_age_group.png)
+![](img/2021_08_13_per_age_group.png)
 
 ## Pregled broja zaraženih po dobnim skupinama i spolu (u zadnjih 7 dostupnih dana) na 100000 stanovnika
 
-![](img/2021_08_12_pyramid.png)
+![](img/2021_08_13_pyramid.png)
 
 -----
 
