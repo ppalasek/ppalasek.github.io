@@ -49,7 +49,7 @@ Interaktivni prikazi dostupni su na sljedećim linkovima:
 
 ![](img/2021_09_07_current_Sjeverna_Hrvatska.png)
 
-![](img/2021_09_07_current_Republika_Hrvatska)
+![](img/2021_09_07_current_Republika_Hrvatska.png)
 
 ## Procijepljenost po županijama
 
