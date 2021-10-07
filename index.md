@@ -61,9 +61,13 @@ Interaktivni prikazi dostupni su na sljedećim linkovima:
 
 ## Pregled broja zaraženih po dobnim skupinama na 100000 stanovnika
 
+Podaci kasne par dana, prikazano stanje nije finalno.)
+
 ![](img/2021_10_06_per_age_group.png)
 
 ## Pregled broja zaraženih po dobnim skupinama i spolu (u zadnjih 7 dostupnih dana) na 100000 stanovnika
+
+Podaci kasne par dana, prikazano stanje nije finalno.)
 
 ![](img/2021_10_06_pyramid.png)
 
