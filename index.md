@@ -2,10 +2,6 @@
 
 ### (generirano 17.10.2021. 12:16:40 h)
 
-### ~~NAPOMENA (01.09.2021.): Stranica se generira automatski. Zbog grešaka u strojno čitljivim podacima objavljenim na koronavirus.hr za zadnjih par dana neki od prikaza NISU TOČNI (npr. negativan broj slučajeva rezultira krivim postocima tjedne promjene) - bit će ispravljeno čim nađem vremena.~~
-
-### NAPOMENA (03.09.2021.): Krivi podaci su manualno ispravljeni, trebalo bi sve biti OK.
-
 Interaktivni prikazi dostupni su na sljedećim linkovima:
 
 - [Standardni prikaz](html/index.html) (zadnjih 100 dana)
@@ -16,6 +12,7 @@ Interaktivni prikazi dostupni su na sljedećim linkovima:
 - [Prikaz procijepljenosti na karti](html/index_vaccination.html) (zadnji dostupni podaci, ne osvježava se automatski)
 
 -----
+
 
 ## Pregled broja zaraženih po županijama
 
