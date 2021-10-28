@@ -1,6 +1,6 @@
 # COVID 19 u Hrvatskoj: Pregled broja zaraženih po županijama
 
-### (generirano 27.10.2021. 12:01:25 h)
+### (generirano 28.10.2021. 11:27:29 h)
 
 Interaktivni prikazi dostupni su na sljedećim linkovima:
 
@@ -15,61 +15,61 @@ Interaktivni prikazi dostupni su na sljedećim linkovima:
 
 ## Pregled broja zaraženih po županijama
 
-![](img/2021_10_26_line_plots.png)
+![](img/2021_10_27_line_plots.png)
 
 ## Pregled tjedne promjene broja zaraženih po županijama
 
-![](img/2021_10_26_map.png)
+![](img/2021_10_27_map.png)
 
 ## Kretanje broja COVID-19 slučajeva, hospitalizacija i umrlih
 
-![](img/2021_10_26_cases_hospitalisations_deaths.png)
+![](img/2021_10_27_cases_hospitalisations_deaths.png)
 
 ## Kretanje broja COVID-19 slučajeva na 100 tisuća stanovnika po dobnim skupinama
 
-![](img/2021_10_26_cases_per_age_group_lines.png)
+![](img/2021_10_27_cases_per_age_group_lines.png)
 
 ## Animirani prikaz kretanja broja COVID-19 slučajeva na 100 tisuća stanovnika po dobnim skupinama
 
-![](img/2021_10_26anim_aug_1200.gif)
+![](img/2021_10_27anim_aug_1200.gif)
 
 ## Ukupan broj zaraženih u zadnjih 7 dana na 100000 stanovnika
 
-![](img/2021_10_26_map_7_day_per_100k.png)
+![](img/2021_10_27_map_7_day_per_100k.png)
 
 ## Ukupan broj zaraženih u zadnjih 14 dana na 100000 stanovnika
 
-![](img/2021_10_26_map_14_day_per_100k.png)
+![](img/2021_10_27_map_14_day_per_100k.png)
 
 ## Ukupan broj zaraženih u zadnjih 14 dana na 100000 stanovnika po regijama
 
 (napomena: kod ECDC-a boja regije ovisi i o postotku pozitivnih testova, ovdje je prikazan samo broj slučajeva)
 
-![](img/2021_10_26_map_14_day_per_100k_region.png)
+![](img/2021_10_27_map_14_day_per_100k_region.png)
 
 (Trend kretanja 14-dnevnog broja slučajeva na 100k stanovnika opisan eksponencijalnom krivuljom n(t) = a * e^(b * t) po regijama. Krivulja aproksimira podatke zadnjih 7 dana, izračunate iz podataka objavljenih na koronavirus.hr, koristeći broj stanovnika po županijama iz 2019. s dzs.hr. Krivulja se prikazuje ukoliko je R^2 aproksimacije > 0.95, prikazana je narančastom bojom. Zelena krivulja prikazuje vrijednosti aproksimacijske krivulje 7 dana u budućnosti (deblja linija), dok su tanjom zelenom linijom prikazane vrijednosti krivulje do dana u kojem bi vrijednost mogla doći do praga od 75/200 zaraženih na 100k stanovnika. Generirano automatski, nakon objave službenih podataka na koronavirus.hr.)
 
-![](img/2021_10_26_current_Jadranska_Hrvatska.png)
+![](img/2021_10_27_current_Jadranska_Hrvatska.png)
 
-![](img/2021_10_26_current_Panonska_Hrvatska.png)
+![](img/2021_10_27_current_Panonska_Hrvatska.png)
 
-![](img/2021_10_26_current_Grad_Zagreb.png)
+![](img/2021_10_27_current_Grad_Zagreb.png)
 
-![](img/2021_10_26_current_Sjeverna_Hrvatska.png)
+![](img/2021_10_27_current_Sjeverna_Hrvatska.png)
 
-![](img/2021_10_26_current_Republika_Hrvatska.png)
+![](img/2021_10_27_current_Republika_Hrvatska.png)
 
-![](img/2021_10_26_cases_hospitalisations_deaths_Republika_Hrvatska.png)
+![](img/2021_10_27_cases_hospitalisations_deaths_Republika_Hrvatska.png)
 
 ## Procijepljenost po županijama
 
 (ne osvježava se automatski)
 
-![](img/2021_10_26_vaccination.png)
+![](img/2021_10_27_vaccination.png)
 
 ## Pregled broja zaraženih po dobnim skupinama na 100000 stanovnika
 
-![](img/2021_10_26_per_age_group.png)
+![](img/2021_10_27_per_age_group.png)
 
 (Podaci kasne par dana, prikazano stanje nije finalno.)
 
@@ -77,7 +77,7 @@ Interaktivni prikazi dostupni su na sljedećim linkovima:
 
 (Podaci kasne par dana, prikazano stanje nije finalno.)
 
-![](img/2021_10_26_pyramid.png)
+![](img/2021_10_27_pyramid.png)
 
 -----
 
