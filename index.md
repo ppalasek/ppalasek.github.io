@@ -31,7 +31,7 @@ Interaktivni prikazi dostupni su na sljedećim linkovima:
 
 ## Animirani prikaz kretanja broja COVID-19 slučajeva na 100 tisuća stanovnika po dobnim skupinama
 
-![](img/2021_10_28anim_aug_1200.gif)
+![](img/2021_10_27anim_aug_1200.gif)
 
 ## Ukupan broj zaraženih u zadnjih 7 dana na 100000 stanovnika
 
