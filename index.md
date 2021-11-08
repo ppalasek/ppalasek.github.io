@@ -75,7 +75,9 @@ Interaktivni prikazi dostupni su na sljedećim linkovima:
 
 ![](img/2021_11_07_per_age_group.png)
 
-![](img/2021_11_07_per_age_group_all.png)
+![](img/2021_11_07_per_age_group_all_0.png)
+
+![](img/2021_11_07_per_age_group_all_1.png)
 
 ## Pregled broja zaraženih po dobnim skupinama i spolu (u zadnjih 7 dostupnih dana) na 100000 stanovnika
 
