@@ -35,6 +35,10 @@ Interaktivni prikazi dostupni su na sljedećim linkovima:
 
 ![](img/2021_11_14anim_aug_1200.gif)
 
+
+
+![](img/anim_cases_11_14_2021_vs_2020.gif)
+
 ## Ukupan broj zaraženih u zadnjih 7 dana na 100000 stanovnika
 
 ![](img/2021_11_14_map_7_day_per_100k.png)
