@@ -29,7 +29,7 @@ Interaktivni prikazi dostupni su na sljedećim linkovima:
 
 ## Kretanje udjela pozitivnih testova
 
-![](img/2021_11_22_percentage_positive_tests.png)
+![](img/2021_11_22_percentage_positive_tests.png) 
 
 ## Kretanje broja COVID-19 slučajeva na 100 tisuća stanovnika po dobnim skupinama
 
