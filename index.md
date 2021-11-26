@@ -41,7 +41,7 @@ Interaktivni prikazi dostupni su na sljedećim linkovima:
 
 ![](img/anim_cases_2021_11_25_vs_2020.gif)
 
-![](img/2021_11_25_all_counties_dots)
+![](img/2021_11_25_all_counties_dots.png)
 
 ## Ukupan broj zaraženih u zadnjih 7 dana na 100000 stanovnika
 
