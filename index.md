@@ -69,7 +69,7 @@ Interaktivni prikazi dostupni su na sljedećim linkovima:
 
 ![](img/2021_11_28_current_Republika_Hrvatska.png)
 
-![](img/2021_11_28_cases_hospitalisations_deaths_Republika_Hrvatska.png) 
+![](img/2021_11_28_cases_hospitalisations_deaths_Republika_Hrvatska.png)  
 
 ## Procijepljenost po županijama
 
