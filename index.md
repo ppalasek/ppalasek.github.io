@@ -25,7 +25,7 @@ Interaktivni prikazi dostupni su na sljedećim linkovima:
 
 ## Kretanje broja COVID-19 slučajeva, hospitalizacija i umrlih
 
-![](img/2021_11_29_cases_hospitalisations_deaths.png)
+![](img/2021_11_29_cases_hospitalisations_deaths.png) 
 
 ## Kretanje udjela pozitivnih testova
 
