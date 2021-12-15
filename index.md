@@ -1,4 +1,4 @@
-# COVID 19 u Hrvatskoj: Pregled broja zaraženih po županijama
+# COVID 19 u Hrvatskoj: Pregled broja zaraženih po županijama 
 
 ### (generirano 15.12.2021. 12:13:33 h)
 
