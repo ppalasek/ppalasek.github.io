@@ -1,6 +1,6 @@
 # COVID 19 u Hrvatskoj: Pregled broja zaraženih po županijama
 
-### (generirano 06.01.2022. 12:34:40 h)
+### (generirano 07.01.2022. 13:07:37 h)
 
 ### NAPOMENA (04.11.2021.): Stranica se generira automatski. Ako ima grešaka u strojno čitljivim podacima objavljenim na koronavirus.hr, prikazani grafovi neće biti točni. U tom slučaju pokušat ću ih ispraviti čim nađem vremena.
 
@@ -100,5 +100,4 @@ Interaktivni prikazi dostupni su na sljedećim linkovima:
 -----
 
 - [Kod](https://github.com/ppalasek/covid_plots_croatia)
-
 
