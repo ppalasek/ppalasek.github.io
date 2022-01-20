@@ -35,7 +35,7 @@ Interaktivni prikazi dostupni su na sljedećim linkovima:
 
 ## Kretanje udjela pozitivnih testova
 
-(zadnji dostupni podaci)
+(zadnji dostupni podaci s HZJZ, plavom bojom prikazani su podaci s koronavirus_hr twittera)
 
 ![](img/2022_01_19_percentage_positive_tests.png)
 
