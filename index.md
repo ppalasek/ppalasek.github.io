@@ -63,7 +63,7 @@ Interaktivni prikazi dostupni su na sljedećim linkovima:
 
 ![](img/2022_06_28_cases_per_age_group_lines_log.png)
 
-| Dobna skupina | Na 100k stanovnika<br>u 7 dana do 26.06.2022. | 1 na svakih | Promjena u odnosu<br>na prošli tjedan |
+| Dobna skupina | Na 100k stanovnika u 7 dana do 26.06.2022. | 1 na svakih | Promjena u odnosu na prošli tjedan |
 | :-----------: | :----------------: | :---------: | :--------------------------------: |
 | 0-4 | 58.59 | 1707 | +114.58% |
 | 5-9 | 46.20 | 2164 | +121.05% |
