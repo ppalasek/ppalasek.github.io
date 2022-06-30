@@ -1,6 +1,6 @@
 # COVID 19 u Hrvatskoj: Pregled broja zaraženih po županijama
 
-### (generirano 30.06.2022. 12:48:07 h)
+### (generirano 30.06.2022. 14:21:38 h)
 
 #### NAPOMENA (04.11.2021.): Stranica se generira automatski. Ako ima grešaka u strojno čitljivim podacima objavljenim na koronavirus.hr, prikazani grafovi neće biti točni. U tom slučaju pokušat ću ih ispraviti čim nađem vremena.
 
@@ -63,26 +63,26 @@ Interaktivni prikazi dostupni su na sljedećim linkovima:
 
 ![](img/2022_06_29_cases_per_age_group_lines_log.png)
 
-| Dobna skupina | Na 100k stanovnika<br>u 7 dana do 26.06.2022. | 1 na svakih | Promjena u odnosu<br>na prošli tjedan |
+| Dobna skupina | Na 100k stanovnika<br>u 7 dana do 27.06.2022. | 1 na svakih | Promjena u odnosu<br>na prošli tjedan |
 | :-----------: | :----------------: | :---------: | :--------------------------------: |
-| 0-4 | 59 | 1707 | +115% |
-| 5-9 | 46 | 2164 | +121% |
-| 10-14 | 56 | 1798 | +8% |
-| 15-19 | 66 | 1520 | +81% |
-| 20-24 | 62 | 1619 | +70% |
-| 25-29 | 121 | 828 | +79% |
-| 30-34 | 139 | 719 | +88% |
-| 35-39 | 129 | 774 | +54% |
-| 40-44 | 120 | 833 | +72% |
-| 45-49 | 120 | 831 | +73% |
-| 50-54 | 106 | 948 | +78% |
-| 55-59 | 92 | 1088 | +40% |
-| 60-64 | 93 | 1070 | +63% |
-| 65-69 | 82 | 1218 | +78% |
-| 70-74 | 86 | 1159 | +86% |
-| 75-79 | 77 | 1299 | +41% |
-| 80-84 | 62 | 1614 | +62% |
-| 85+ | 53 | 1875 | +96% |
+| 0-4 | 55 | 1831 | +45% |
+| 5-9 | 49 | 2043 | +122% |
+| 10-14 | 54 | 1867 | +0% |
+| 15-19 | 74 | 1347 | +96% |
+| 20-24 | 68 | 1463 | +93% |
+| 25-29 | 131 | 763 | +91% |
+| 30-34 | 150 | 664 | +88% |
+| 35-39 | 138 | 726 | +59% |
+| 40-44 | 127 | 789 | +56% |
+| 45-49 | 130 | 768 | +74% |
+| 50-54 | 117 | 852 | +88% |
+| 55-59 | 102 | 978 | +43% |
+| 60-64 | 97 | 1032 | +51% |
+| 65-69 | 85 | 1177 | +68% |
+| 70-74 | 92 | 1088 | +74% |
+| 75-79 | 84 | 1193 | +50% |
+| 80-84 | 60 | 1657 | +35% |
+| 85+ | 60 | 1670 | +139% |
 ## Animirani prikaz kretanja broja COVID-19 slučajeva na 100 tisuća stanovnika po dobnim skupinama
 
 ![](img/2022_06_29anim_aug_1200.gif)
