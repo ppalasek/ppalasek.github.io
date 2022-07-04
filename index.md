@@ -1,6 +1,6 @@
 # COVID 19 u Hrvatskoj: Pregled broja zaraženih po županijama
 
-### (generirano 04.07.2022. 13:20:52 h)
+### (generirano 04.07.2022. 15:26:13 h)
 
 #### NAPOMENA (04.11.2021.): Stranica se generira automatski. Ako ima grešaka u strojno čitljivim podacima objavljenim na koronavirus.hr, prikazani grafovi neće biti točni. U tom slučaju pokušat ću ih ispraviti čim nađem vremena.
 
@@ -63,26 +63,26 @@ Interaktivni prikazi dostupni su na sljedećim linkovima:
 
 ![](img/2022_07_03_cases_per_age_group_lines_log.png)
 
-| Dobna skupina | Na 100k stanovnika<br>u 7 dana do 29.06.2022. | 1 na svakih | Promjena u odnosu<br>na prošli tjedan |
+| Dobna skupina | Na 100k stanovnika<br>u 7 dana do 02.07.2022. | 1 na svakih | Promjena u odnosu<br>na prošli tjedan |
 | :-----------: | :----------------: | :---------: | :--------------------------------: |
-| 0-4 | 64 | 1556 | +71% |
-| 5-9 | 59 | 1699 | +110% |
-| 10-14 | 66 | 1508 | +63% |
-| 15-19 | 97 | 1033 | +145% |
-| 20-24 | 114 | 876 | +278% |
-| 25-29 | 181 | 554 | +169% |
-| 30-34 | 214 | 467 | +164% |
-| 35-39 | 183 | 547 | +118% |
-| 40-44 | 168 | 596 | +107% |
-| 45-49 | 188 | 531 | +150% |
-| 50-54 | 166 | 601 | +154% |
-| 55-59 | 137 | 727 | +101% |
-| 60-64 | 129 | 772 | +107% |
-| 65-69 | 109 | 915 | +88% |
-| 70-74 | 113 | 882 | +95% |
-| 75-79 | 114 | 874 | +81% |
-| 80-84 | 77 | 1305 | +71% |
-| 85+ | 66 | 1506 | +110% |
+| 0-4 | 75 | 1332 | +27% |
+| 5-9 | 62 | 1609 | +35% |
+| 10-14 | 73 | 1371 | +31% |
+| 15-19 | 103 | 969 | +54% |
+| 20-24 | 135 | 739 | +119% |
+| 25-29 | 199 | 503 | +64% |
+| 30-34 | 236 | 423 | +70% |
+| 35-39 | 205 | 489 | +59% |
+| 40-44 | 194 | 516 | +63% |
+| 45-49 | 211 | 475 | +77% |
+| 50-54 | 192 | 521 | +83% |
+| 55-59 | 167 | 599 | +80% |
+| 60-64 | 155 | 646 | +63% |
+| 65-69 | 136 | 734 | +67% |
+| 70-74 | 130 | 769 | +51% |
+| 75-79 | 139 | 719 | +79% |
+| 80-84 | 108 | 929 | +71% |
+| 85+ | 91 | 1093 | +65% |
 ## Animirani prikaz kretanja broja COVID-19 slučajeva na 100 tisuća stanovnika po dobnim skupinama
 
 ![](img/2022_07_03anim_aug_1200.gif)
