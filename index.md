@@ -1,6 +1,6 @@
 # COVID 19 u Hrvatskoj: Pregled broja zaraženih po županijama
 
-### (generirano 09.07.2022. 12:20:06 h)
+### (generirano 09.07.2022. 12:37:43 h)
 
 #### NAPOMENA (04.11.2021.): Stranica se generira automatski. Ako ima grešaka u strojno čitljivim podacima objavljenim na koronavirus.hr, prikazani grafovi neće biti točni. U tom slučaju pokušat ću ih ispraviti čim nađem vremena.
 
@@ -63,6 +63,8 @@ Interaktivni prikazi dostupni su na sljedećim linkovima:
 
 ![](img/2022_07_08_cases_per_age_group_lines_log.png)
 
+(Incidencija po dobnim skupinama je preslikana iz podataka o testiranjima. Kako je taj skup malen i nije nasumično odabran, podaci u tablici nisu vrlo precizni i treba interpretirati pažljivo.)
+
 | Dobna skupina | Na 100k stanovnika<br>u 7 dana do 07.07.2022. | 1 na svakih | Promjena u odnosu<br>na prošli tjedan |
 | :-----------: | :----------------: | :---------: | :--------------------------------: |
 | 0-4 | 93 | 1078 | +38% |
@@ -109,7 +111,7 @@ Interaktivni prikazi dostupni su na sljedećim linkovima:
 
 ![](img/2022_07_08_map_7_day_per_100k_age_groups.png)
 
-(Trend kretanja 14-dnevnog broja slučajeva na 100k stanovnika opisan eksponencijalnom krivuljom n(t) = a * e^(b * t) po regijama. Krivulja aproksimira podatke zadnjih 7 dana, izračunate iz podataka objavljenih na koronavirus.hr, koristeći broj stanovnika po županijama iz 2019. s dzs.hr. Krivulja se prikazuje ukoliko je R^2 aproksimacije > 0.95, prikazana je narančastom bojom. Zelena krivulja prikazuje vrijednosti aproksimacijske krivulje 7 dana u budućnosti (deblja linija), dok su tanjom zelenom linijom prikazane vrijednosti krivulje do dana u kojem bi vrijednost mogla doći do praga od 75/200 zaraženih na 100k stanovnika. Generirano automatski, nakon objave službenih podataka na koronavirus.hr.)
+(Trend kretanja 14-dnevnog broja slučajeva na 100k stanovnika opisan eksponencijalnom krivuljom n(t) = a * e^(b * t) po regijama. Krivulja aproksimira podatke zadnjih 14 dana, izračunate iz podataka objavljenih na koronavirus.hr, koristeći broj stanovnika po županijama iz 2019. s dzs.hr. Krivulja se prikazuje ukoliko je R^2 aproksimacije > 0.95, prikazana je narančastom bojom. Zelena krivulja prikazuje vrijednosti aproksimacijske krivulje 7 dana u budućnosti (deblja linija), dok su tanjom zelenom linijom prikazane vrijednosti krivulje do dana u kojem bi vrijednost mogla doći do praga od 75/200 zaraženih na 100k stanovnika. Generirano automatski, nakon objave službenih podataka na koronavirus.hr.)
 
 ![](img/2022_07_08_current_Jadranska_Hrvatska.png)
 
