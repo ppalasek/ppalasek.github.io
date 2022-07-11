@@ -1,6 +1,6 @@
 # COVID 19 u Hrvatskoj: Pregled broja zaraženih po županijama
 
-### (generirano 10.07.2022. 18:48:29 h)
+### (generirano 11.07.2022. 13:53:01 h)
 
 #### NAPOMENA (04.11.2021.): Stranica se generira automatski. Ako ima grešaka u strojno čitljivim podacima objavljenim na koronavirus.hr, prikazani grafovi neće biti točni. U tom slučaju pokušat ću ih ispraviti čim nađem vremena.
 
@@ -63,28 +63,28 @@ Interaktivni prikazi dostupni su na sljedećim linkovima:
 
 ![](img/2022_07_09_cases_per_age_group_lines_log.png)
 
-(Incidencija po dobnim skupinama je preslikana iz podataka o testiranjima. Kako je taj skup malen i nije nasumično odabran, podaci u tablici nisu vrlo precizni i treba ih interpretirati pažljivo.)
+(Incidencija po dobnim skupinama u tablici ispod prikazuje samo broj pozitivnih testova iz službenih podataka o testiranjima u odnosu na ukupan broj stanovnika u svakoj dobnoj skupini. Kako je skup podataka službenih testiranja malen, podaci u tablici ne prikazuju pravu sliku (podcijenjuju pravo stanje) pa apsolutne brojeve treba interpretirati pažljivo. Tablica može biti korisna za praćenje trenda kretanja pozitivnih testova po dobnim skupinama.)
 
-| Dobna skupina | Na 100k stanovnika<br>u 7 dana do 08.07.2022. | 1 na svakih | Promjena u odnosu<br>na prošli tjedan |
+| Dobna skupina | Na 100k stanovnika<br>u 7 dana do 09.07.2022. | 1 na svakih | Promjena u odnosu<br>na prošli tjedan |
 | :-----------: | :----------------: | :---------: | :--------------------------------: |
-| 0-4 | 100 | 999 | +52% |
-| 5-9 | 97 | 1027 | +55% |
-| 10-14 | 95 | 1054 | +36% |
-| 15-19 | 111 | 905 | +9% |
-| 20-24 | 150 | 667 | +14% |
-| 25-29 | 233 | 429 | +23% |
-| 30-34 | 273 | 366 | +19% |
-| 35-39 | 251 | 399 | +25% |
-| 40-44 | 238 | 421 | +28% |
-| 45-49 | 248 | 403 | +22% |
-| 50-54 | 249 | 401 | +40% |
-| 55-59 | 227 | 441 | +43% |
-| 60-64 | 231 | 434 | +66% |
-| 65-69 | 197 | 507 | +58% |
-| 70-74 | 190 | 527 | +55% |
-| 75-79 | 200 | 501 | +46% |
-| 80-84 | 148 | 674 | +46% |
-| 85+ | 168 | 596 | +108% |
+| 0-4 | 97 | 1034 | +29% |
+| 5-9 | 102 | 983 | +62% |
+| 10-14 | 94 | 1065 | +28% |
+| 15-19 | 104 | 964 | +1% |
+| 20-24 | 151 | 663 | +11% |
+| 25-29 | 235 | 425 | +18% |
+| 30-34 | 277 | 361 | +17% |
+| 35-39 | 260 | 384 | +27% |
+| 40-44 | 239 | 419 | +23% |
+| 45-49 | 248 | 404 | +17% |
+| 50-54 | 244 | 409 | +27% |
+| 55-59 | 230 | 434 | +37% |
+| 60-64 | 221 | 454 | +42% |
+| 65-69 | 194 | 516 | +42% |
+| 70-74 | 192 | 521 | +47% |
+| 75-79 | 212 | 472 | +52% |
+| 80-84 | 149 | 670 | +38% |
+| 85+ | 155 | 647 | +65% |
 ## Animirani prikaz kretanja broja COVID-19 slučajeva na 100 tisuća stanovnika po dobnim skupinama
 
 ![](img/2022_07_09anim_aug_1200.gif)
@@ -111,7 +111,7 @@ Interaktivni prikazi dostupni su na sljedećim linkovima:
 
 ![](img/2022_07_09_map_7_day_per_100k_age_groups.png)
 
-(Trend kretanja 14-dnevnog broja slučajeva na 100k stanovnika opisan eksponencijalnom krivuljom n(t) = a * e^(b * t) po regijama. Krivulja aproksimira podatke zadnjih 14 dana, izračunate iz podataka objavljenih na koronavirus.hr, koristeći broj stanovnika po županijama iz 2019. s dzs.hr. Krivulja se prikazuje ukoliko je R^2 aproksimacije > 0.95, prikazana je narančastom bojom. Zelena krivulja prikazuje vrijednosti aproksimacijske krivulje 7 dana u budućnosti (deblja linija), dok su tanjom zelenom linijom prikazane vrijednosti krivulje do dana u kojem bi vrijednost mogla doći do praga od 75/200 zaraženih na 100k stanovnika. Generirano automatski, nakon objave službenih podataka na koronavirus.hr.)
+(Trend kretanja 14-dnevnog broja slučajeva na 100k stanovnika opisan eksponencijalnom krivuljom n(t) = a * e^(b * t) po regijama. Krivulja aproksimira podatke zadnjih 7 dana, izračunate iz podataka objavljenih na koronavirus.hr, koristeći broj stanovnika po županijama iz 2019. s dzs.hr. Krivulja se prikazuje ukoliko je R^2 aproksimacije > 0.95, prikazana je narančastom bojom. Zelena krivulja prikazuje vrijednosti aproksimacijske krivulje 7 dana u budućnosti (deblja linija), dok su tanjom zelenom linijom prikazane vrijednosti krivulje do dana u kojem bi vrijednost mogla doći do praga od 75/200 zaraženih na 100k stanovnika. Generirano automatski, nakon objave službenih podataka na koronavirus.hr.)
 
 ![](img/2022_07_09_current_Jadranska_Hrvatska.png)
 
