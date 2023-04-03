@@ -1,6 +1,6 @@
 # COVID 19 u Hrvatskoj: Pregled broja zaraženih po županijama
 
-### (generirano 27.03.2023. 18:36:39 h)
+### (generirano 03.04.2023. 12:36:27 h)
 
 #### NAPOMENA (04.11.2021.): Stranica se generira automatski. Ako ima grešaka u strojno čitljivim podacima objavljenim na koronavirus.hr, prikazani grafovi neće biti točni. U tom slučaju pokušat ću ih ispraviti čim nađem vremena.
 
@@ -29,127 +29,127 @@ Interaktivni prikazi dostupni su na sljedećim linkovima:
 
 ## Pregled broja zaraženih po županijama
 
-![](img/2023_03_26_line_plots.png)
+![](img/2023_04_02_line_plots.png)
 
 ## Pregled tjedne promjene broja zaraženih po županijama
 
-![](img/2023_03_26_map.png)
+![](img/2023_04_02_map.png)
 
 ## Kretanje broja umrlih
 
-![](img/2023_03_26_deaths_shaded.png)
+![](img/2023_04_02_deaths_shaded.png)
 
 ## Kretanje broja COVID-19 slučajeva, hospitalizacija i umrlih
 
 (napomena: podaci o hospitalizacijama i broju osoba na respiratorima se ne objavljuju svakodnevno, prikazani su zadnji dostupni podaci)
 
-![](img/2023_03_26_cases_hospitalisations_deaths_perc.png)
+![](img/2023_04_02_cases_hospitalisations_deaths_perc.png)
 
-![](img/2023_03_26_cases_hospitalisations_deaths_perc_log.png)
+![](img/2023_04_02_cases_hospitalisations_deaths_perc_log.png)
 
-![](img/2023_03_26_cases_hospitalisations_deaths_log_age.png)
+![](img/2023_04_02_cases_hospitalisations_deaths_log_age.png)
 
 ## Kretanje udjela pozitivnih testova
 
 (zadnji dostupni podaci s HZJZ, plavom bojom prikazani su podaci s koronavirus_hr twittera)
 
-![](img/2023_03_26_percentage_positive_tests.png)
+![](img/2023_04_02_percentage_positive_tests.png)
 
 ## Kretanje broja učinjenih testova
 
 (zadnji dostupni podaci s HZJZ, plavom bojom prikazani su podaci s koronavirus_hr twittera)
 
-![](img/2023_03_26_num_tests.png)
+![](img/2023_04_02_num_tests.png)
 
 ## Kretanje broja COVID-19 slučajeva na 100 tisuća stanovnika po dobnim skupinama
 
-![](img/2023_03_26_cases_per_age_group_lines.png)
+![](img/2023_04_02_cases_per_age_group_lines.png)
 
-![](img/2023_03_26_cases_per_age_group_lines_log.png)
+![](img/2023_04_02_cases_per_age_group_lines_log.png)
 
 (Incidencija po dobnim skupinama u tablici ispod prikazuje samo broj pozitivnih testova iz službenih podataka o testiranjima u odnosu na ukupan broj stanovnika u svakoj dobnoj skupini. Kako je skup podataka službenih testiranja malen, podaci u tablici ne prikazuju pravu sliku (podcijenjuju pravo stanje) pa apsolutne brojeve treba interpretirati pažljivo. Tablica može biti korisna za praćenje trenda kretanja pozitivnih testova po dobnim skupinama.)
 
-| Dobna skupina | Na 100k stanovnika<br>u 7 dana do 24.03.2023. | 1 na svakih | Promjena u odnosu<br>na prošli tjedan |
+| Dobna skupina | Na 100k stanovnika<br>u 7 dana do 31.03.2023. | 1 na svakih | Promjena u odnosu<br>na prošli tjedan |
 | :-----------: | :----------------: | :---------: | :--------------------------------: |
-| 0-4 |  9 | 10971 | +23% |
-| 5-9 |  6 | 18144 | +233% |
-| 10-14 |  3 | 32573 | -40% |
-| 15-19 |  5 | 20970 | +80% |
-| 20-24 |  5 | 18987 | -35% |
-| 25-29 |  6 | 17835 | -43% |
-| 30-34 | 10 | 10343 | +120% |
-| 35-39 |  8 | 12172 | -5% |
-| 40-44 |  7 | 13367 | -26% |
-| 45-49 |  9 | 11311 | -4% |
-| 50-54 |  7 | 15297 | -43% |
-| 55-59 | 10 | 10352 | -16% |
-| 60-64 | 12 | 8481 | +17% |
-| 65-69 | 13 | 7753 | +44% |
-| 70-74 | 18 | 5576 | -7% |
-| 75-79 | 25 | 3969 | +6% |
-| 80-84 | 27 | 3719 | +22% |
-| 85+ | 47 | 2138 | +65% |
+| 0-4 |  8 | 12538 | -13% |
+| 5-9 |  2 | 60482 | -70% |
+| 10-14 |  5 | 21715 | +50% |
+| 15-19 |  3 | 31455 | -33% |
+| 20-24 | 11 | 8702 | +118% |
+| 25-29 |  8 | 12590 | +42% |
+| 30-34 |  9 | 10836 | -5% |
+| 35-39 |  5 | 21301 | -45% |
+| 40-44 | 10 | 9548 | +40% |
+| 45-49 |  8 | 13007 | -13% |
+| 50-54 |  7 | 13687 | +12% |
+| 55-59 | 11 | 9317 | +7% |
+| 60-64 | 11 | 9302 | -9% |
+| 65-69 | 11 | 9003 | -14% |
+| 70-74 | 16 | 6179 | -10% |
+| 75-79 | 26 | 3865 | +3% |
+| 80-84 | 20 | 5113 | -27% |
+| 85+ | 32 | 3171 | -33% |
 ## Animirani prikaz kretanja broja COVID-19 slučajeva na 100 tisuća stanovnika po dobnim skupinama
 
-![](img/2023_03_26anim_aug_1200.gif)
+![](img/2023_04_02anim_aug_1200.gif)
 
-![](img/anim_cases_2023_03_26_vs_2020.gif)
+![](img/anim_cases_2023_04_02_vs_2020.gif)
 
-![](img/2023_03_26all_counties_dots.png)
+![](img/2023_04_02all_counties_dots.png)
 
 ## Ukupan broj zaraženih u zadnjih 7 dana na 100000 stanovnika
 
-![](img/2023_03_26_map_7_day_per_100k.png)
+![](img/2023_04_02_map_7_day_per_100k.png)
 
 ## Ukupan broj zaraženih u zadnjih 14 dana na 100000 stanovnika
 
-![](img/2023_03_26_map_14_day_per_100k.png)
+![](img/2023_04_02_map_14_day_per_100k.png)
 
 ## Ukupan broj zaraženih u zadnjih 14 dana na 100000 stanovnika po regijama
 
 (napomena: kod ECDC-a boja regije ovisi i o postotku pozitivnih testova, ovdje je prikazan samo broj slučajeva)
 
-![](img/2023_03_26_map_14_day_per_100k_region.png)
+![](img/2023_04_02_map_14_day_per_100k_region.png)
 
 ## Ukupan broj zaraženih u zadnjih 7 dana na 100000 stanovnika po dobnim skupinama
 
-![](img/2023_03_26_map_7_day_per_100k_age_groups.png)
+![](img/2023_04_02_map_7_day_per_100k_age_groups.png)
 
 (Trend kretanja 14-dnevnog broja slučajeva na 100k stanovnika opisan eksponencijalnom krivuljom n(t) = a * e^(b * t) po regijama. Krivulja aproksimira podatke zadnjih 7 dana, izračunate iz podataka objavljenih na koronavirus.hr, koristeći broj stanovnika po županijama iz 2021. s dzs.hr. Krivulja se prikazuje ukoliko je R^2 aproksimacije > 0.9, prikazana je narančastom bojom. Zelena krivulja prikazuje vrijednosti aproksimacijske krivulje 7 dana u budućnosti (deblja linija), dok su tanjom zelenom linijom prikazane vrijednosti krivulje do dana u kojem bi vrijednost mogla doći do praga od 75/200 zaraženih na 100k stanovnika. Generirano automatski, nakon objave službenih podataka na koronavirus.hr.)
 
-![](img/2023_03_26_current_Jadranska_Hrvatska.png)
+![](img/2023_04_02_current_Jadranska_Hrvatska.png)
 
-![](img/2023_03_26_current_Panonska_Hrvatska.png)
+![](img/2023_04_02_current_Panonska_Hrvatska.png)
 
-![](img/2023_03_26_current_Grad_Zagreb.png)
+![](img/2023_04_02_current_Grad_Zagreb.png)
 
-![](img/2023_03_26_current_Sjeverna_Hrvatska.png)
+![](img/2023_04_02_current_Sjeverna_Hrvatska.png)
 
-![](img/2023_03_26_current_Republika_Hrvatska.png)
+![](img/2023_04_02_current_Republika_Hrvatska.png)
 
-![](img/2023_03_26_cases_hospitalisations_deaths_Republika_Hrvatska.png)
+![](img/2023_04_02_cases_hospitalisations_deaths_Republika_Hrvatska.png)
 
 ## Procijepljenost po županijama
 
 (ne osvježava se automatski)
 
-![](img/2023_03_26_vaccination.png)
+![](img/2023_04_02_vaccination.png)
 
 ## Pregled broja zaraženih po dobnim skupinama na 100000 stanovnika
 
 (Podaci kasne par dana, prikazano stanje nije finalno.)
 
-![](img/2023_03_26_per_age_group.png)
+![](img/2023_04_02_per_age_group.png)
 
-![](img/2023_03_26_per_age_group_all_0.png)
+![](img/2023_04_02_per_age_group_all_0.png)
 
-![](img/2023_03_26_per_age_group_all_1.png)
+![](img/2023_04_02_per_age_group_all_1.png)
 
 ## Pregled broja zaraženih po dobnim skupinama i spolu (u zadnjih 7 dostupnih dana) na 100000 stanovnika
 
 (Podaci kasne par dana, prikazano stanje nije finalno.)
 
-![](img/2023_03_26_pyramid.png)
+![](img/2023_04_02_pyramid.png)
 
 -----
 
